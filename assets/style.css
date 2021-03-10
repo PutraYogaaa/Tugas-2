@@ -33,8 +33,6 @@ section{
   }
 
 
-
-
 footer{
     position: inherit;
     bottom: 0;
@@ -44,3 +42,7 @@ footer{
     padding-top: 20px;
     margin-top: 20px;
 }   
+
+#Fibonacci{
+    min-height: 600px;
+}

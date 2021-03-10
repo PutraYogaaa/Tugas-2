@@ -28,8 +28,15 @@
                         <a class="nav-link active" aria-current="page" href="#">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">About</a>
+                        <a class="nav-link" href="#">Tentang</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./fibonacci.php">Fibonacci</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./aritmatika.php">Aritmatika</a>
+                    </li>
+
                     <li class="nav-item">
                         <a class="nav-link" href="#">Bibit</a>
                     </li>
